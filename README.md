@@ -87,5 +87,6 @@ Interact with filters (Year, Vehicle Type, Usage Type) to explore insights.
 
 
 📷 Dashboard Preview
-![Insurance Analysis Dashboard](Insurance%Data%Analysis.png)
+![Insurance Dashboard](Insurance%20Data%20Analysis.png)
+
 
